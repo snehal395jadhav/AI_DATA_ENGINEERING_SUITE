@@ -52,21 +52,17 @@ The application uses role-based access control to ensure that users only access 
 
 ---
 
-## Demo Preview
+## 🎥 Demo Preview
 
-```text
-Add your application screenshot to the GitHub repository as:
 
-Screenshot.png
-```
+<a href="https://www.loom.com/share/32caed0753f44c688a80f5743a147f0f" target="_blank">
 
-<p align="center">
-  <img
-    src="Screenshot.png"
-    width="95%"
-    alt="Navneet Data Studio Preview"
-  />
-</p>
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_DATA_ENGINEERING_SUITE/main/Screenshot.png"  width="95%"/>
+
+</a>
+
+👉 [Click here to watch full screen demo](https://www.loom.com/share/32caed0753f44c688a80f5743a147f0f)
+
 
 ---
 
